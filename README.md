@@ -22,7 +22,6 @@
 ##### Error Handling: Include basic error handling for scenarios like invalid city names or API failures.
 ## Bonus
 ##### Add icons or images representing the current weather condition.
-##### Implement a loading state while the weather data is being fetched.
 ## Output
 ##### URL of the live app (can be hosted on platforms like Vercel, Netlify, or GitHub Pages)
 ##### Source code hosted on GitHub,Netlify
