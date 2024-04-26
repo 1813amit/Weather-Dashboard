@@ -2,4 +2,4 @@
 
 ### Steps to run on localhost
 ###### npm i Install dependencies 
-###### and Start React app with npm start
+###### Start React app with npm start
