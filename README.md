@@ -1,4 +1,5 @@
 # Weather-Dashboard
-Steps to run on local
-npm i Install dependencies 
-and Start with npm start 
+
+### Steps to run on localhost
+###### npm i Install dependencies 
+###### and Start React app with npm start
